@@ -1,0 +1,9 @@
+D:\Progs\Physics\Physics\bin\Debug\Physics.exe
+D:\Progs\Physics\Physics\bin\Debug\Physics.pdb
+D:\Progs\Physics\Physics\obj\x86\Debug\Physics.csprojResolveAssemblyReference.cache
+D:\Progs\Physics\Physics\obj\x86\Debug\Physics.MainForm.resources
+D:\Progs\Physics\Physics\obj\x86\Debug\Physics.Properties.Resources.resources
+D:\Progs\Physics\Physics\obj\x86\Debug\Physics.csproj.GenerateResource.Cache
+D:\Progs\Physics\Physics\obj\x86\Debug\Physics.exe
+D:\Progs\Physics\Physics\obj\x86\Debug\Physics.pdb
+D:\Progs\Physics\Physics\bin\Debug\MimeTeX.dll
