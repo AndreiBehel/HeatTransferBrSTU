@@ -155,7 +155,6 @@ namespace Physics
         }
         public void calculateNuForVert()
         {
-
             double C = 0;
             double n = 0;
 
