@@ -125,6 +125,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "GraphForm";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.GraphForm_FormClosed);
             ((System.ComponentModel.ISupportInitialize)(this.convChart)).EndInit();
             this.ResumeLayout(false);
 

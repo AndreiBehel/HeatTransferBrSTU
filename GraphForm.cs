@@ -67,6 +67,11 @@ namespace Physics
         {
             this.isRunning = false;
         }
+
+        private void GraphForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.isRunning = false;
+        }
     }
     public class myData
     {

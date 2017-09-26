@@ -161,13 +161,13 @@ namespace Physics
 
             if (rayleighNumber > 2.0E+7)
             {
-                sb.Append("Ra\\, >\\, 2\\cdot10^{7}\\,\\Rightarrow ");
+                sb.Append("Re\\, >\\, 2\\cdot10^{7}\\,\\Rightarrow ");
                 C = 0.135;
                 n = 1.0 / 3.0;
             }
             else if (rayleighNumber > 5.0E+2)
             {
-                sb.Append("2\\cdot10^{7} \\, > \\, Ra \\,> 5\\cdot10^{2}\\,\\Rightarrow ");
+                sb.Append("2\\cdot10^{7} \\, > \\, Re \\,> 5\\cdot10^{2}\\,\\Rightarrow ");
                 C = 0.54;
                 n = 1.0 / 4.0;
             }
@@ -191,13 +191,13 @@ namespace Physics
 
             if (rayleighNumber > 1.0E+9)
             {
-                sb.Append("Ra\\, > \\, 10^{9}\\,\\Rightarrow ");
+                sb.Append("Re\\, > \\, 10^{9}\\,\\Rightarrow ");
                 C = 0.15;
                 n = 0.33;
             }
             else
             {
-                sb.Append("Ra \\,< \\, 10^{9}\\,\\Rightarrow ");
+                sb.Append("Re \\,< \\, 10^{9}\\,\\Rightarrow ");
                 C = 0.75;
                 n = 0.25;
             }

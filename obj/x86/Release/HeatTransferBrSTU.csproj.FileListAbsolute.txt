@@ -1,0 +1,9 @@
+D:\Progs\Physics\Physics\bin\Release\MimeTeX.dll
+D:\Progs\Physics\Physics\bin\Release\Physics.exe
+D:\Progs\Physics\Physics\bin\Release\Physics.pdb
+D:\Progs\Physics\Physics\obj\x86\Release\Physics.GraphForm.resources
+D:\Progs\Physics\Physics\obj\x86\Release\Physics.MainForm.resources
+D:\Progs\Physics\Physics\obj\x86\Release\Physics.Properties.Resources.resources
+D:\Progs\Physics\Physics\obj\x86\Release\HeatTransferBrSTU.csproj.GenerateResource.Cache
+D:\Progs\Physics\Physics\obj\x86\Release\Physics.exe
+D:\Progs\Physics\Physics\obj\x86\Release\Physics.pdb
